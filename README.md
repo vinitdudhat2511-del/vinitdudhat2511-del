@@ -1,75 +1,130 @@
 # Hi, I'm Vinit 👋
 
-Computer Science undergraduate specializing in **AI & Data Science** at MIT World Peace University, Pune (Class of 2027). I build end-to-end ML pipelines, automation agents, and full-stack apps — and I write them up so the reasoning is as visible as the code.
+### AI & Data Science Undergraduate | ML • Data Engineering • AI Agents
 
-- 🔭 Currently building out my portfolio and applying for roles in **data analytics, full-stack development, and AI/ML engineering**
-- 🌱 Recently went deep on VAEs (ELBO loss, KL divergence, reparameterization trick) and LLM automation patterns
-- 📫 Reach me via a GitHub issue or connect on LinkedIn
+I'm a Computer Science undergraduate specializing in **AI & Data Science** at **MIT World Peace University, Pune (Class of 2027)**. I build machine learning pipelines, AI-powered automation systems, data platforms, and backend applications with a focus on practical, production-oriented solutions.
+
+* 🔭 Building projects in **AI/ML, Data Engineering, and Backend Development**
+* 🌱 Currently exploring **LLM systems, AI agents, MLOps, and scalable data pipelines**
+* 💼 Open to **internships and entry-level opportunities**
+* 📫 Feel free to connect through GitHub or LinkedIn
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Loan Defaulter — Credit Risk ML Pipeline](#)
-End-to-end ML pipeline for credit risk prediction on `credit_risk_dataset.csv`.
-- Baseline: Logistic Regression & Decision Tree with **MLflow** tracking
-- XGBoost tuned via RandomizedSearchCV → Optuna (TPE/Hyperband)
-- Champion model: **ROC-AUC ~0.95**
-- Handover package: joblib artifacts, input schema, sample requests, model card
-- Explored **DVC** for artifact versioning
+### 🏥 Healthcare Claims Analytics & Data Operations Platform
 
-**Stack:** Python, scikit-learn, XGBoost, Optuna, MLflow, DVC
+End-to-end healthcare claims data pipeline focused on **data quality, validation, analytics, and fraud-risk assessment**.
 
----
+* Processed **16,000+ healthcare claims**
+* Implemented a **14-check data quality validation framework**
+* Designed a normalized **PostgreSQL schema with 8 tables**
+* Built business rules and an explainable **0–100 fraud risk scoring system**
+* Developed a **FastAPI REST service with 12+ endpoints**
+* Created a **Streamlit analytics dashboard**
+* Containerized the application using **Docker & Docker Compose**
+* Added a **39-test Pytest suite** for validation and reliability
 
-### [n8n AI Research & Meeting Intelligence Agent](#)
-Self-hosted, dual-agent automation system for research and meeting intelligence.
-- Integrates **Google Gemini**, **Tavily**, and **Notion**
-- Designed as a real-world showcase of orchestrating LLM agents in a workflow tool
-
-**Stack:** n8n, Google Gemini API, Tavily API, Notion API
+**Stack:** Python · PostgreSQL · FastAPI · Streamlit · Pytest · Docker · ETL
 
 ---
 
-### [Healthcare Claims Analytics](#)
-Data validation and ETL pipeline for healthcare claims data.
-- Built around validation logic, ETL processes, and **Pytest** test coverage
+### 📊 [Loan Defaulter — Credit Risk ML Pipeline](#)
 
-**Stack:** Python, Pytest, ETL
+End-to-end machine learning pipeline for predicting loan default risk from structured credit data.
 
----
+* Established **Logistic Regression and Decision Tree** baselines
+* Implemented experiment tracking using **MLflow**
+* Tuned **XGBoost** using RandomizedSearchCV and Optuna
+* Achieved approximately **0.95 ROC-AUC** with the champion model
+* Created reusable **joblib model artifacts and input schemas**
+* Prepared sample requests and a **model card** for model handover
+* Explored **DVC** for dataset and artifact versioning
 
-### [TaskFlow](#)
-A task management backend built with **FastAPI** and **PostgreSQL**.
-
-**Stack:** FastAPI, PostgreSQL
-
----
-
-### [CraveCart](#)
-Node.js e-commerce/food ordering backend using **Mongoose ODM**.
-
-**Stack:** Node.js, MongoDB, Mongoose
+**Stack:** Python · scikit-learn · XGBoost · Optuna · MLflow · DVC
 
 ---
 
-## 📄 Research
+### 🤖 [n8n AI Research & Meeting Intelligence Agent](#)
 
-**MockMind** — Co-authored an IEEE-formatted paper on AI-assisted interview systems, covering LLM evaluation frameworks, automated interview analysis, and disfluency detection.
+Self-hosted dual-agent automation system for **AI-powered research and meeting intelligence**.
+
+* Built automated workflows using **n8n**
+* Integrated **Google Gemini, Tavily, and Notion APIs**
+* Research Agent performs web research, LLM synthesis, and structured knowledge storage
+* Meeting Intelligence Agent extracts **decisions, action items, and open questions**
+* Designed the system as a practical demonstration of **LLM agent orchestration**
+
+**Stack:** n8n · Google Gemini API · Tavily API · Notion API · LLMs
 
 ---
 
-## 🛠️ Tech Toolbox
+### ⚙️ [TaskFlow — Distributed Task Queue System](#)
 
-`Python` `FastAPI` `Node.js` `XGBoost` `scikit-learn` `MLflow` `Optuna` `PostgreSQL` `MongoDB` `n8n` `Pytest`
+Backend task-processing system designed around asynchronous job execution and reliable task management.
+
+* Built REST APIs using **FastAPI**
+* Used **Redis** for task queuing
+* Used **PostgreSQL** for persistent task data
+* Implemented **priority-based task scheduling**
+* Added automatic **retry handling and dead-lettering**
+* Developed a real-time **React dashboard** for monitoring tasks
+
+**Stack:** Python · FastAPI · Redis · PostgreSQL · React
+
+---
+
+### 🍔 [CraveCart — Food Ordering Platform](#)
+
+Full-stack food ordering application with a Node.js backend and MongoDB-based data layer.
+
+* Developed backend APIs using **Node.js**
+* Used **MongoDB with Mongoose ODM**
+* Designed data models for food ordering and e-commerce workflows
+
+**Stack:** Node.js · MongoDB · Mongoose · JavaScript
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Python` `SQL` `JavaScript` `C++`
+
+### AI / Machine Learning
+
+`scikit-learn` `XGBoost` `TensorFlow` `MLflow` `Optuna`
+
+### Backend & Data
+
+`FastAPI` `Node.js` `PostgreSQL` `MongoDB` `Redis`
+
+### AI & Automation
+
+`LLMs` `n8n` `REST APIs`
+
+### Engineering & Testing
+
+`Docker` `Git` `GitHub` `Pytest`
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitdudhat2511-del&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitdudhat2511-del&layout=compact)
+![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitdudhat2511-del\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitdudhat2511-del\&layout=compact)
 
 ---
 
-*Open to internships and entry-level roles — always happy to talk about ML pipelines, automation agents, or full-stack builds.*
+## 🤝 Let's Connect
+
+I'm interested in opportunities involving:
+
+**AI/ML Engineering · Data Engineering · Data Analytics · Backend Development · AI Agents**
+
+Open to internships, collaborations, and interesting technical projects.
+
+---
