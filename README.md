@@ -1,8 +1,5 @@
 # Hi, I'm Vinit 👋
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vinit-dudhat-9b70152bb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 ### AI & Data Science Undergraduate | ML • Data Engineering • AI Agents
 
@@ -156,5 +153,9 @@ I'm interested in opportunities involving:
 **AI/ML Engineering · Data Engineering · Data Analytics · Backend Development · AI Agents**
 
 Open to internships, collaborations, and interesting technical projects.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vinit-dudhat-9b70152bb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
