@@ -1,5 +1,9 @@
 # Hi, I'm Vinit 👋
 
+<p align="left">
+<a href="https://www.linkedin.com/in/vinit-dudhat-9b70152bb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 ### AI & Data Science Undergraduate | ML • Data Engineering • AI Agents
 
 I'm a Computer Science undergraduate specializing in **AI & Data Science** at **MIT World Peace University, Pune (Class of 2027)**. I build machine learning pipelines, AI-powered automation systems, data platforms, and backend applications with a focus on practical, production-oriented solutions.
@@ -7,7 +11,7 @@ I'm a Computer Science undergraduate specializing in **AI & Data Science** at **
 * 🔭 Building projects in **AI/ML, Data Engineering, and Backend Development**
 * 🌱 Currently exploring **LLM systems, AI agents, MLOps, and scalable data pipelines**
 * 💼 Open to **internships and entry-level opportunities**
-* 📫 Feel free to connect through GitHub or LinkedIn
+* 📫 Feel free to connect through [LinkedIn](https://www.linkedin.com/in/vinit-dudhat-9b70152bb) or GitHub
 
 ---
 
