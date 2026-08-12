@@ -13,7 +13,7 @@ I'm a Computer Science undergraduate specializing in **AI & Data Science** at **
 
 ## 🚀 Featured Projects
 
-### 🏥 Healthcare Claims Analytics & Data Operations Platform
+### 🏥 [Healthcare Claims Analytics & Data Operations Platform](https://github.com/vinitdudhat2511-del/healthcare-claims-platform)
 
 End-to-end healthcare claims data pipeline focused on **data quality, validation, analytics, and fraud-risk assessment**.
 
@@ -30,7 +30,7 @@ End-to-end healthcare claims data pipeline focused on **data quality, validation
 
 ---
 
-### 📊 [Loan Defaulter — Credit Risk ML Pipeline](#)
+### 📊 [Loan Defaulter — Credit Risk ML Pipeline](https://github.com/vinitdudhat2511-del/Loan_Defaulter)
 
 End-to-end machine learning pipeline for predicting loan default risk from structured credit data.
 
@@ -46,7 +46,7 @@ End-to-end machine learning pipeline for predicting loan default risk from struc
 
 ---
 
-### 🤖 [n8n AI Research & Meeting Intelligence Agent](#)
+### 🤖 [n8n AI Research & Meeting Intelligence Agent](https://github.com/vinitdudhat2511-del/n8n-AI-Research-Meeting-Intelligence-Agent)
 
 Self-hosted dual-agent automation system for **AI-powered research and meeting intelligence**.
 
@@ -60,7 +60,7 @@ Self-hosted dual-agent automation system for **AI-powered research and meeting i
 
 ---
 
-### ⚙️ [TaskFlow — Distributed Task Queue System](#)
+### ⚙️ [TaskFlow — Distributed Task Queue System](https://github.com/vinitdudhat2511-del/task-queue-system)
 
 Backend task-processing system designed around asynchronous job execution and reliable task management.
 
@@ -75,7 +75,7 @@ Backend task-processing system designed around asynchronous job execution and re
 
 ---
 
-### 🍔 [CraveCart — Food Ordering Platform](#)
+### 🍔 [CraveCart — Food Ordering Platform](https://github.com/vinitdudhat2511-del/cravecart-backend)
 
 Full-stack food ordering application with a Node.js backend and MongoDB-based data layer.
 
